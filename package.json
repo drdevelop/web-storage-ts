@@ -1,6 +1,6 @@
 {
   "name": "web-storage-ts",
-  "version": "1.0.0-beta",
+  "version": "1.0.0-rc",
   "description": "集合了浏览器的所有存储，以策略模式统一使用各种存储方式",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
