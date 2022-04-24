@@ -1,0 +1,8 @@
+node_modules
+dist
+
+*.d.ts
+!core/adapter/adapter.d.ts
+*.js
+*.js.map
+!webpack.config.js
