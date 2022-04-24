@@ -11,6 +11,10 @@
     "clean": "tsc clean"
   },
   "author": "cxd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdevelop/web-storage-ts"
+  },
   "license": "MIT",
   "devDependencies": {
     "html-webpack-plugin": "^5.5.0",
