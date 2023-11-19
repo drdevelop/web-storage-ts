@@ -5,8 +5,8 @@ npm i web-storage-ts -S
 
 ## 初始化
 ```ts
-import WebStorage from 'web-storage-ts';
-const storage = new WebStorage().getStorage('indexdbStorage');
+import createStorage from 'web-storage-ts';
+const storage = createStorage('indexdbStorage');
 ```
 
 ## 提供的存储类型
